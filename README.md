@@ -1,4 +1,5 @@
-# SimpleAndUsefulScripts
-This are the simple and useful scripts for your terminal.
+# AI Generated Script
 
-Scripts listed may use Shell, Bash, Python, Ruby and other.
+- Posted all generated scripts using AI, training AI.
+- Scripts has tendency of not to work since the AI has been trained this time.
+- Warning ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ Warning
